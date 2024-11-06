@@ -1,0 +1,12 @@
+[
+  {"address": "New York, NY", "latitude": 40.7128, "longitude": -74.0060},
+  {"address": "Los Angeles, CA", "latitude": 34.0522, "longitude": -118.2437},
+  {"address": "Chicago, IL", "latitude": 41.8781, "longitude": -87.6298},
+  {"address": "Houston, TX", "latitude": 29.7604, "longitude": -95.3698},
+  {"address": "Phoenix, AZ", "latitude": 33.4484, "longitude": -112.0740},
+  {"address": "Philadelphia, PA", "latitude": 39.9526, "longitude": -75.1652},
+  {"address": "San Antonio, TX", "latitude": 29.4241, "longitude": -98.4936},
+  {"address": "San Diego, CA", "latitude": 32.7157, "longitude": -117.1611},
+  {"address": "Dallas, TX", "latitude": 32.7767, "longitude": -96.7970},
+  {"address": "San Jose, CA", "latitude": 37.3382, "longitude": -121.8863}
+]

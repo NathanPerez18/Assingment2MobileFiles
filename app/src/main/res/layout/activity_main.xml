@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/nature">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:gravity="center" android:layout_centerInParent="true" android:padding="16dp">
+        <!--  App name display  -->
+        <TextView android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/locationfinder"
+            android:textSize="32sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:shadowColor="#80000000"
+            android:shadowDx="4"
+            android:shadowDy="4"
+            android:shadowRadius="4"
+            android:background="@drawable/oval_background"/>
+        <Button
+            android:id="@+id/navigate_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start"
+            android:shadowColor="#80000000"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="4"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#FFFFFF"
+            android:textColor="#000000"/>
+    </LinearLayout>
+</RelativeLayout>

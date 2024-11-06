@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NathanPerezLocationFinder</string>
+    <string name="locationfinder">Location Finder</string>
+    <string name="MainPageBackground">MainPagePic</string>
+    <string name="search">Search...</string>
+    <string name="address">Address:</string>
+    <string name="n_a">N/A</string>
+    <string name="latitude">Latitude:</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="search1">Search...</string>
+    <string name="address1">Address:</string>
+    <string name="n_a1">N/A</string>
+    <string name="latitude1">Latitude:</string>
+    <string name="n_a2">N/A</string>
+    <string name="longitude">Longitude:</string>
+    <string name="n_a3">N/A</string>
+    <string name="search3">Search</string>
+</resources>
